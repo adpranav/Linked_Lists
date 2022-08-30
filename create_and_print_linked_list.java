@@ -1,7 +1,7 @@
 class Node{
     int data;
     Node next;
-    public Node(int Data){
+    public Node(int data){
         this.data=data;
     }
 }
